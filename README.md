@@ -4,6 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Animal Trading Cards</title>
+	<link href="styles.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 	<div>
@@ -32,51 +33,4 @@
 	</div>
 </body>
 </html>
-
-body{
-  margin: 10px;
-  padding: 10px;
-  min-width:300px;
-}
-
-img{
-  max-width:100%;
-  width: 100%;
-  height:auto;
-}
-
-h3{
-  margin-top:0;
-}
-
-ul{
-  list-style-type: none;
-  padding:0;
-}
-
-.intro{
-  font-size: 1em;
-  font-style: italic;
-}
-
-.animal-card{
-  font-family: serif;
-  font-size: .9em;
-  margin: 0 auto;
-  padding: 20px;
-  outline 1px solid blue;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
-  max-width: 300px;
-}
-
-.facts-outlined{
-  margin-top: 10px;
-  outline: 1px solid blue;
-  max-width: 300px;
-  padding:14px;
-}
-
-.strong{
-  font-weight: bold;
-}
 
